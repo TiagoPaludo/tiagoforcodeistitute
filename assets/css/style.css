@@ -38,6 +38,7 @@ h1{
 main{
     background-color: blue;
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 footer{
     background-color: orange;
