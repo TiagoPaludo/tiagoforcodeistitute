@@ -66,7 +66,7 @@ nav{
 
 }
 #nav-toggle:checked~nav{
-    display: block;
+display: block; 
 
 }
 #nav-toggle{
@@ -75,7 +75,6 @@ nav{
 }
 .nav-toggle-label{
     font-size: 2rem;
-    
 }
 #menu >li{
     margin-bottom: 1em;
